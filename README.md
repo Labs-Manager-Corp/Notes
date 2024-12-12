@@ -6,6 +6,17 @@ Alunos:
 - Otavio M. Rau (Todas as Roles)
 
 ---
+## Estrutura do Projeto
+|Serviço|Technologia - Framework| Link Repositório
+|---|---|---|
+|Frontend|TypeScript - NextJS|[Labs Manager Frontend](https://github.com/Labs-Manager-Corp/Labs-Manager-Front-End)|
+|Backend|Java 21 - Spring Boot|[Labs Manager Backend](https://github.com/Labs-Manager-Corp/Labs-Manager-Backend)|
+|Database|MongoDB - Mongo Atlas Cloud|[Mongo Atlas](https://www.mongodb.com/pt-br/atlas)|
+|Relatórios / Administrativo|Markdow|[Relatórios](https://github.com/Labs-Manager-Corp/Notes)|
+
+Todos os repositórios aqui listados estão públicos
+
+---
 ## Backlog
 
 ### Frontend
@@ -126,6 +137,11 @@ Foi realizado uma pesquisa de modelos e com base nas referências de modelos e i
 
 - Configuração de Ambiente:
 O projeto havia sido inicializado utilizando banco de dados relacional Postgre rodando na máquina local, mais especificamente em um contêiner docker. E devido a isso precisou-se alterar para MongoDB Atlas, e devido a complexidade de realização da comunicação do servidor backend java spring boot e o MongoDB acabou que não foi possível realizar tal conexão em tempo hábil do projeto
+
+### Pontos Fortes e Melhorias
+
+
+### Impactos do Scrum
 
 ---
 # Templates de Referências
