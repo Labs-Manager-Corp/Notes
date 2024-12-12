@@ -117,6 +117,16 @@ Data: 27/11/24 ~ 03/12/24
 Data: 04/12/24 ~ 10/12/24
 #### Relatório de Status:
 
+
+## Relatório Final
+
+### Principais Desafios
+- Definição de Sprints e Backlogs:
+Foi realizado uma pesquisa de modelos e com base nas referências de modelos e imagens de modelos de metodologias, juntamente com a experiência própria foi criado um template próprio para seguimento de atividades com base nos objetivos criados no backlog
+
+- Configuração de Ambiente:
+O projeto havia sido inicializado utilizando banco de dados relacional Postgre rodando na máquina local, mais especificamente em um contêiner docker. E devido a isso precisou-se alterar para MongoDB Atlas, e devido a complexidade de realização da comunicação do servidor backend java spring boot e o MongoDB acabou que não foi possível realizar tal conexão em tempo hábil do projeto
+
 ---
 # Templates de Referências
 ```
