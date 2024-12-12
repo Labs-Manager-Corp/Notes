@@ -6,7 +6,30 @@
 - Criação do repositório Frontend - OK
 - Criação da rota da tela Inicial
 - Criação da rota da tela do usuário
-- Criação da rota de tela de cadastro de 
+- Criação da rota de tela de cadastros
+  - Criação da tela de cadastro de usuário
+  - Criação da tela de cadastro de laboratório
+  - Criação da tela de cadastro de status de alocação
+
+- Criação de componentes em tela
+  - Criação do componente cadastro de notificação
+  - Criação do componente visualização de notificação
+  - Criação de componente validação de role de usuário
+  - Criação de componente modelo de campo de texto
+  - Criação de componente DataPicker
+  - Criação de componente Select
+  - Criação de componente Root Bar
+  - Criação de componente List (Para lista de itens internos)
+  - Criação de componente Commun Fucntions
+  - Criação de componente Modal Genérico (Incluindo Context)
+    - Modal de Info sobre Laboratório (Validar Ideia)
+    - Modal de formulário de reserva (Validar Ideia)
+  - Criação de componente Dialog Genérico (Incluindo Context)
+
+  - Criação de componente comunicação com Backend
+    - Grupo laboratórios
+    - Grupo Users
+    - Grupo Solicitações
 
 ### Backend
 - Criação do repositório Backend
@@ -38,6 +61,10 @@
 - Criação de entidade (entity) para modelo de histórico de aluguel
 - Criação de entidade (entity) para modelo de softwares instalados
 - Criação de entidade (entity) para modelo de solicitações
+
+- Validações
+  - Validar tipo de modelo para uso de tipo de variavel Time nos processos de cadastro de reserva
+  -
 
 ### Database
 - Criação da conta de MongoDB - OK
