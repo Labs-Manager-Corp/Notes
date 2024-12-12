@@ -1,5 +1,11 @@
 # Avaliação N3 Metodologias Ageis
 
+## Papeis Scrum
+
+Alunos: 
+- Otavio M. Rau (Todas as Roles)
+
+---
 ## Backlog
 
 ### Frontend
@@ -69,3 +75,66 @@
 ### Database
 - Criação da conta de MongoDB - OK
 - Configuração de conexão com backend
+
+---
+## Relatórios de Sprints
+
+### Sprint 1
+Data: 30/10/24 ~ 06/11/24
+
+#### Relatório de Status:
+Resumo:
+- Realizado primeira análise do projeto e objetivos. Criado primeira versão local do backlog, juntamente com arquiteturação do sistema e dos processos do mesmo.
+
+### Sprint 1
+Data: 30/10/24 ~ 06/11/24
+
+#### Relatório de Status:
+
+### Sprint 2
+
+Data: 06/11/24 ~ 12/11/24
+#### Relatório de Status:
+
+### Sprint 3
+
+Data: 13/11/24 ~ 19/11/24
+#### Relatório de Status:
+
+
+### Sprint 3
+
+Data: 20/11/24 ~ 26/11/24
+#### Relatório de Status:
+
+### Sprint 4
+
+Data: 27/11/24 ~ 03/12/24
+#### Relatório de Status:
+
+### Sprint 5
+
+Data: 04/12/24 ~ 10/12/24
+#### Relatório de Status:
+
+---
+# Templates de Referências
+```
+Modelo para relatório de Sprints:
+Objetivos:
+        [Objetivo 1]
+        [Objetivo 2]
+        ...
+    Tarefas Concluídas:
+        [Tarefa 1]
+        [Tarefa 2]
+        ...
+    Tarefas em Andamento:
+        [Tarefa 1]
+        [Tarefa 2]
+        ...
+    Impedimentos:
+        [Impedimento 1]
+        [Impedimento 2]
+        ...
+```
